@@ -1,4 +1,4 @@
 # Python_Dev
 
-Python Projects developed for `FreeCodeCamp` or personal projects including `Machine Learning`, `Scientific Computing` and more with Python Dev Frameworks such `Django`, `Flask` and `TensorFlow`.
+Python Projects developed for `FreeCodeCamp` or personal projects including `Scientific Computing`, `Data Analysis` and more with Python Frameworks such `Django`, `Flask`, `NumPy`, `Matplotlib` and `Seaborn`.
 Some projects are developed for the `certification` projects (FreeCodeCamp).
