@@ -8,6 +8,6 @@ In the subfolder `Guide-Course` of `data-analysis` there is documentations about
 The documentations are a review made by me supported and based on what i learned in the course provided by `FreeCodeCamp`.
 
 ---
-### 🔜 To be added repositories of Backend Development of APIs with `Python`
+### 🔜 To be added repositories of Backend Development of APIs with `Python` and other projects 
 
 ---
