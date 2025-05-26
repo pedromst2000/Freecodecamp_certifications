@@ -9,4 +9,4 @@ A **Mad Libs generator** is a fun and beginner-friendly Python project where use
 - [x] Prompt the user for different types of words (e.g., adjective, noun, verb).
 - [x] Insert the words into predefined blanks within a story template.
 - [x] Output the completed story to the console.
-- [ ] Unit Tests for the functions.
+- [x] Unit Tests for the functions.
