@@ -1,13 +1,3 @@
 # Python_Dev
+This repository contains only the official certification projects completed for the FreeCodeCamp curriculum. Each project demonstrates concepts and skills required by FreeCodeCamp, including `Scientific Computing` and `Data Analysis` with Python. All code and documentation are based on the requirements and guidelines provided by FreeCodeCamp.
 
-Python Projects developed for `FreeCodeCamp` or personal projects including `Scientific Computing`, `Data Analysis` and more with Python Frameworks such as `Flask`, `Django`, `NumPy`, `Matplotlib`, `Seaborn` and other AI libraries for `Gen AI` development.
-Some projects are developed for the `certification` projects (FreeCodeCamp).
-
-In the subfolder `Guide-Course` of `data-analysis` there is documentations about the topics and tools cover it in the projects featured by `FreeCodeCamp`.
-
-The documentations are a review made by me supported and based on what i learned in the course provided by `FreeCodeCamp`.
-
----
-### 🔜 To be added repositories of Backend Development of APIs with `Python` and other projects 
-
----
