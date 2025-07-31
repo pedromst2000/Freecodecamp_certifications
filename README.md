@@ -1,4 +1,4 @@
-# Python_Dev
+# FreeCodeCamp Certifications Projects
 
 This repository contains only the official certification projects completed for the FreeCodeCamp curriculum. Each project demonstrates concepts and skills required by FreeCodeCamp.
 
