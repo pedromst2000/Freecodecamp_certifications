@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Telephone US Number Validator App</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <div class="title">
+        <h1>Telephone US Number Validator</h1>
+      </div>
+      <div class="phone-container">
+        <div class="phone-background">
+          <div class="camera-container">
+            <div class="phone-camera"></div>
+          </div>
+          <form role="form" class="form-container" id="phone-form">
+            <div class="screen-container">
+              <div class="screen-content">
+                <div class="form-group-container">
+                  <label> Enter a Phone Number </label>
+                  <input
+                    type="text"
+                    id="user-input"
+                    placeholder="1 (555) 555-5555"
+                  />
+                </div>
+                <div class="results-container">
+                  <div id="results-div"></div>
+                </div>
+              </div>
+            </div>
+            <div class="opts-container">
+              <button type="submit" id="check-btn">Submit</button>
+              <button type="button" id="clear-btn">Clear</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </main>
+
+    <script src="script.js"></script>
+  </body>
+</html>
