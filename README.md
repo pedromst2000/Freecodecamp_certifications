@@ -8,10 +8,11 @@ This repository contains only the official certification projects completed for 
 ## Table of Contents
 
 - [Technologies / Libraries Used](#hammer_and_wrench-technologies--libraries-used)
-- [Projects](#projects)
+- [Projects](#bookmark_tabs-projects)
   - [Data Analysis with Python](#data-analysis-with-python)
   - [Scientific Computing with Python](#scientific-computing-with-python)
   - [Javascript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
+  - [Javascript Algorithms and Data Structures (Beta)](#javascript-algorithms-and-data-structures-beta)
   - [Responsive Web Design](#responsive-web-design)
 
 
@@ -54,7 +55,7 @@ Check the repository for specific project files and their descriptions [here](
 https://github.com/pedromst2000/Freecodecamp_certifications/tree/master/freecodecamp-certifications/Javascript%20algorithms%20and%20data%20structures
 ).
 
-## Javascript Algorithms and Data Structures (Beta)
+### Javascript Algorithms and Data Structures (Beta)
 
 A collection of projects centred on algorithms, dynamic `DOM` manipulation, `Local Storage` usage for data persistence, and `API` integration for `fetching` external data.
 
