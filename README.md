@@ -18,16 +18,14 @@ This repository contains only the official certification projects completed for 
 ## :hammer_and_wrench: Technologies / Libraries Used
 
 - [Python 3.x](https://www.python.org/)
-- [Tkinter](https://docs.python.org/3/library/tkinter.html) (for GUI)
-- [PIP](https://pip.pypa.io/en/stable/) (Python package installer)
 - [pytest](https://docs.pytest.org/en/stable/) (for testing)
 - [pytest-mock](https://github.com/pytest-dev/pytest-mock) (for mocking in tests)
-- [PyInstaller](https://pyinstaller.readthedocs.io/en/stable/) (for packaging applications)
 - [Pandas](https://pandas.pydata.org/) (for data manipulation)
 - [NumPy](https://numpy.org/) (for numerical operations)
 - [Matplotlib](https://matplotlib.org/) (for plotting and visualization)
 - [Seaborn](https://seaborn.pydata.org/) (for statistical data visualization)
 - [Scipy](https://www.scipy.org/) (for scientific computing)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :bookmark_tabs: Projects
 
