@@ -48,14 +48,17 @@ Check the repository for specific project files and their descriptions [here](ht
 
 ### Javascript Algorithms and Data Structures
 
-Includes projects that focus on algorithms and data structures using JavaScript, a versatile programming language. The projects cover key fundamentals of JavaScript, including `variables`, `arrays`, `objects`, `loops`, `functions`, `DOM` manipulation, and more. It´s also covering `OOP`, `Functional Programming`, how to work with `Local Storage`, and how to `fetch` data using an `API`.
+Includes projects that focus on algorithms and data structures using JavaScript, a versatile programming language. The projects cover key fundamentals of JavaScript, including `variables`, `arrays`, `objects`, `loops`, `functions`. It´s also covering `OOP` and `Functional Programming`.
 
 Check the repository for specific project files and their descriptions [here](
-https://github.com/pedromst2000/Freecodecamp_certifications/tree/master/freecodecamp-certifications/javascript-algorithms-and-data-structures-beta
+https://github.com/pedromst2000/Freecodecamp_certifications/tree/master/freecodecamp-certifications/Javascript%20algorithms%20and%20data%20structures
 ).
 
-Check out the deploypment of the projects included:
+## Javascript Algorithms and Data Structures (Beta)
 
+A collection of projects centred on algorithms, dynamic `DOM` manipulation, `Local Storage` usage for data persistence, and `API` integration for `fetching` external data.
+
+Check out the deploypment of the projects included in this certificate:
 
 * Cash Register App (deploy) - [https://cashregistercode.netlify.app)](https://cashregistercode.netlify.app)
 
