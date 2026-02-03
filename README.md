@@ -59,6 +59,10 @@ https://github.com/pedromst2000/Freecodecamp_certifications/tree/master/freecode
 
 A collection of projects centred on algorithms, dynamic `DOM` manipulation, `Local Storage` usage for data persistence, and `API` integration for `fetching` external data.
 
+Check the repository for specific project files and their descriptions [here](
+https://github.com/pedromst2000/Freecodecamp_certifications/tree/master/freecodecamp-certifications/Javascript%20algorithms%20and%20data%20structures%20(Beta)
+).
+
 Check out the deploypment of the projects included in this certificate:
 
 * Cash Register App (deploy) - [https://cashregistercode.netlify.app)](https://cashregistercode.netlify.app)
